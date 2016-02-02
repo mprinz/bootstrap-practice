@@ -105,6 +105,7 @@
 							<div class="row">
 								<div class="col-md-4">
 									<div class="content-box">
+										<h4>This is a box</h4>
 										<p>Ipsum loquator cucumber airplane chairlift university</p>
 									</div>
 								</div>
@@ -118,7 +119,7 @@
 										<p>Four score and seven years ago our forefathers...</p>
 									</div>
 								</div>
-						<div class="container-fluid">
+						<div class="container">
 							<div class="row">
 								<div class="col-md-12">
 									<div class="jumbotron"></div>
