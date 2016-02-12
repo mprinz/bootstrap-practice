@@ -9,7 +9,8 @@
 	background-color: green;
 }
 
-.carousel {
-	min-height: 300px;
+#carousel-example-generic {
+	height: auto;
 	width: auto;
+	overflow: hidden;
 }
