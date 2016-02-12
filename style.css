@@ -3,7 +3,13 @@
 *Global styles
 *
 */
-/***
+
+
+#welcome{
+	background-color: green;
+}
+
+/**
 * Flexbox Sticky Footer
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
 ***/
@@ -17,7 +23,6 @@ body { width: 100%;}
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
-	background-color: #990000;
 }
 ​
 .sfooter-content {
@@ -29,4 +34,5 @@ body { width: 100%;}
 	border-radius: 6px;
 	padding: 10px;
 	margin: 10px;
-}
+	}
+
