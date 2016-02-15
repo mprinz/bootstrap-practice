@@ -3,13 +3,11 @@
 *Global styles
 *
 */
-
+body{
+	background-image: ../images/Sculpture.JPG;
+}
 
 #welcome{
 	background-color: lightblue;
 }
 
-#mycarousel {
-	height: 300px;
-	width: 300px;
-	}
