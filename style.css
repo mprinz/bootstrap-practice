@@ -6,11 +6,10 @@
 
 
 #welcome{
-	background-color: red;
+	background-color: lightblue;
 }
 
-#carousel-example-generic {
-	height: auto;
-	width: auto;
-	overflow: hidden;
-}
+#mycarousel {
+	height: 300px;
+	width: 300px;
+	}
